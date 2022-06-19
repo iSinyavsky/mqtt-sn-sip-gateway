@@ -1,0 +1,10 @@
+{
+  "asteriskIp": "195.161.62.229",
+  "asteriskPort": "5060",
+  "fromId": "20304050",
+  "toId": "10203040",
+  "srcIp": "192.168.88.244",
+  "srcMQTTPort": "",
+  "mode": "client",
+  "brokerIp": "185.18.55.216"
+}
