@@ -2,7 +2,7 @@
 The project is a gateway prototype for encapsulation and decapsulation of the MQTT protocol (MQTT-SN) into SIP packets. To be able to transfer MQTT data over SIP.
 
 ## How to run
-Before starting, you need to configure the configuration file - mqttsip.conf:
+Before starting, you need to configure the configuration file - mqttsip.json:
 - asterisk_ip, asterisk_port: ip address of SIP server;
 - fromId: sip id of client / broker
 - toId: sip id of client / broker
